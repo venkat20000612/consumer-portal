@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/consumer-portal/static/css/main.78558332.css",
-    "main.js": "/consumer-portal/static/js/main.4725a869.js",
+    "main.js": "/consumer-portal/static/js/main.5248b921.js",
     "static/js/453.03125fe7.chunk.js": "/consumer-portal/static/js/453.03125fe7.chunk.js",
     "static/media/video-img.png": "/consumer-portal/static/media/video-img.fd01c83171ef5023ece1.png",
     "static/media/banner-1.png": "/consumer-portal/static/media/banner-1.154148b67d5cb03f9502.png",
@@ -13,11 +13,11 @@
     "static/media/forum-second-img.png": "/consumer-portal/static/media/forum-second-img.c5413299004bc4ad704b.png",
     "index.html": "/consumer-portal/index.html",
     "main.78558332.css.map": "/consumer-portal/static/css/main.78558332.css.map",
-    "main.4725a869.js.map": "/consumer-portal/static/js/main.4725a869.js.map",
+    "main.5248b921.js.map": "/consumer-portal/static/js/main.5248b921.js.map",
     "453.03125fe7.chunk.js.map": "/consumer-portal/static/js/453.03125fe7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.78558332.css",
-    "static/js/main.4725a869.js"
+    "static/js/main.5248b921.js"
   ]
 }
