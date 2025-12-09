@@ -2,7 +2,7 @@
   "name": "consumer-portal",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://venkat20000612.github.io/consumer-portal",
+  "homepage": "https://venkat20000612.github.io/consumer-portal/",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.9.1",
